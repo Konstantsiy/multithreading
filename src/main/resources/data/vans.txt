@@ -1,0 +1,9 @@
+Vans_1---12---loading---NOT_HURRYING
+Vans_2---2---loading---NOT_HURRYING
+Vans_3---4---unloading---NOT_HURRYING
+Vans_4---10---unloading---HURRYING
+Vans_5---9---unloading---NOT_HURRYING
+Vans_6---8---unloading---HURRYING
+Vans_7---13---unloading---NOT_HURRYING
+Vans_8---3---loading---HURRYING
+Vans_9---15---unloading---NOT_HURRYING
